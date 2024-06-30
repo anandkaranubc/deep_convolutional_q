@@ -1,1 +1,1 @@
-![]https://github.com/anandkaranubc/deep_convolutional_q/blob/main/pacman.gif
+![](https://github.com/anandkaranubc/deep_convolutional_q/blob/main/pacman.gif)
